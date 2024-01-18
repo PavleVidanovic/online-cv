@@ -76,23 +76,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Grafana
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Java
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Javascript
+        level: 50%
 
 experiences:
     title: Experiences
@@ -101,6 +98,7 @@ experiences:
         time: Jan 2023 - Present
         company: Prime Holding JSC, Sofia, Bulgaria
         details: |
+        Part of a team of 5 Data Scientists and Engineers, completed tasks regarding machine learning, data analysis, forecasting and back-end development in python.
             - Researched and selected adequate Large Language Models (LLMs)
             - Testing and evaluating models performance on various data sets
             - Implementation of Recurrent Neural Networks
@@ -108,29 +106,7 @@ experiences:
             - Deriving important metrics and key indicators in Time Series Analysis
             - Applied models and made significant strides in forecasting next events
             - Developed reports and visualizations with Grafana
-            - Managing a large relational database
-      # - role: Senior Software Engineer
-      #   time: 2014 - 2015
-      #   company: Google, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
-      # - role: UI Developer
-      #   time: 2012 - 2014
-      #   company: Amazon, London
-      #   details: |
-      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      #     Cum sociis natoque penatibus et magnis dis parturient montes,
-      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      #     pellentesque eu, pretium quis, sem.
-      #       - Bullet point
-      #       - Bullet point
+            - Managing large relational databases
 
 certifications:
       title: Certifications
