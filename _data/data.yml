@@ -156,7 +156,6 @@ projects:
     intro: >
     
     assignments:
-    
       - title: OCR Automation project (Nov 2023 - Present)
         link: ""
         tagline: "Designing an invoice processing system, utilizing Microsoft Power Automate, Azure OCR engines, and Adobe REST APIs, augmented with Generative AI. 
