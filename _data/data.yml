@@ -161,7 +161,10 @@ projects:
       - title: Anomaly Detection Project (Jan 2023 - Apr 2023)
         link: ""
         tagline: "Completed tasks regarding Relational and Non-Relational databases (DBeaver, SSMS, MongoDB),
-        deployed classification algorithms (Logistic Regressions, LDA, Decision Trees, Neural Networks etc.),"
+        deployed classification algorithms (Logistic Regressions, LDA, Decision Trees, Neural Networks etc.),
+        used unsupervised Learning (k-Nearest neighbors, clustering algorithms, anomaly detection algorithms),
+        ETL and flow control tooling (e.g. Data Factory, Data Bricks, ML Flow), Cloud infrastructure - ETL and flow control tools in AWS,
+        Visualization and BI tools (Grafana, PowerBI)."
 
       - title: DevStudio
         link: ""
