@@ -42,7 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Enthusiastic Junior Data Scientist and Data Engineer with a passion for innovation and a solid foundation in Python and SQL. Eager to contribute hands-on expertise to designing scalable data products on cloud         platforms, including Azure and AWS. Skilled in developing tools for data engineering, mining, and visualization, with a commitment to maintaining robust data governance and security. Excels in translating business        requirements into technical solutions and is ready to contribute to cross-functional data teams.
+      Enthusiastic Junior Data Scientist and Data Engineer with a passion for innovation and a solid foundation in Python and SQL. Eager to contribute hands-on expertise to designing scalable data products on cloud platforms, including Azure and AWS.
+      
+      Skilled in developing tools for data engineering, mining, and visualization, with a commitment to maintaining robust data governance and security. Excels in translating business requirements into technical solutions and is ready to contribute to cross-functional data teams.
 education:
     title: Education
     info:
