@@ -158,20 +158,21 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Anomaly Detection Project (Jan 2023 - Apr 2023)
+        link: ""
+        tagline: "Completed tasks regarding Relational and Non-Relational databases (DBeaver, SSMS, MongoDB),
+        deployed classification algorithms (Logistic Regressions, LDA, Decision Trees, Neural Networks etc.),"
 
       - title: DevStudio
-        link: "#"
+        link: ""
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
-        link: "#"
+        link: ""
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
-        link: "#"
+        link: ""
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
