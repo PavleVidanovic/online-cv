@@ -53,7 +53,7 @@ education:
     info:
       - degree: MSc in Data Processing
         university: Faculty of Electronic Engineering, Niš
-        time: 2022 - current
+        time: 2022 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -153,11 +153,29 @@ certifications:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: ""
     assignments:
+    
+      - title: OCR Automation project (Nov 2023 - Present)
+        link: ""
+        tagline: "Designing an invoice processing system, utilizing Microsoft Power Automate, Azure OCR engines, and Adobe REST APIs, augmented with Generative AI. 
+        Engineering Flask-based APIs to parse and integrate data outputs from OCR engines with OpenAI Assistant API agents and Microsoft AutoGen.
+        Designed prompts to facilitate seamless interaction between agents, enabling automated text transformation.
+        Developing Python back-end to handle JSON data transformations, manage error logging,  and ensure the  data flow into a database (SupaBase). 
+        Developing the system's capability to classify documents via text analysis, to further refine data integrity for downstream business processes.
+        
+      - title: Prime Assistant (June 2023 - Nov 2023)
+        link: ""
+        tagline: "Researched and selected an adequate Large Language Model (Langchain, MilvusDB vector database),
+        Testing and evaluating models performance on various data sets,
+        Integrated the backend with the frontend to make a fullstack app (React, Python-Flask),
+        Containerized the app and hosted it on docker"
+        
+      - title: REACH - Bus Occupancy Predictions project (Apr 2023 - June 2023)
+        link: ""
+        tagline: "Researched machine learning algorithms to help predict bus entrants and occupancy, Implemented RNNs for solving the problems above (LSTMs),
+        Created dashboards and visualizations of the input data and model output data (Flask, Streamlit), derived important metrics and pinpointed key indicators of bus occupancy"
+        
       - title: Anomaly Detection Project (Jan 2023 - Apr 2023)
         link: ""
         tagline: "Completed tasks regarding Relational and Non-Relational databases (DBeaver, SSMS, MongoDB),
@@ -165,65 +183,6 @@ projects:
         used unsupervised Learning (k-Nearest neighbors, clustering algorithms, anomaly detection algorithms),
         ETL and flow control tooling (e.g. Data Factory, Data Bricks, ML Flow), Cloud infrastructure - ETL and flow control tools in AWS,
         Visualization and BI tools (Grafana, PowerBI)."
-
-      - title: DevStudio
-        link: ""
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: ""
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: ""
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
-
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
