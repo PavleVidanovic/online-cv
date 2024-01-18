@@ -88,10 +88,10 @@ skills:
         level: 70%
 
       - name: Java
-        level: 50%
+        level: 40%
 
       - name: Javascript
-        level: 50%
+        level: 40%
 
 experiences:
     title: Experiences
@@ -113,43 +113,25 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Python Data Structures
+          start: 2023
+          organization: Udemy
+          
+        - name: ChatGPT Prompt Engineering for Developers
+          start: 
+          organization: Deeplearning.ai
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: LangChain for LLM Application Development
+          start: 
+          organization: Deeplearning.ai
+
+        - name: Finetuning Large Language Models
+          start: 
+          organization: Deeplearning.ai
+
+        - name: Building and Evaluating Advanced RAG Applications
+          start: 
+          organization: Deeplearning.ai
 
 projects:
     title: Projects
