@@ -162,7 +162,7 @@ projects:
         Engineering Flask-based APIs to parse and integrate data outputs from OCR engines with OpenAI Assistant API agents and Microsoft AutoGen.
         Designed prompts to facilitate seamless interaction between agents, enabling automated text transformation.
         Developing Python back-end to handle JSON data transformations, manage error logging,  and ensure the  data flow into a database (SupaBase). 
-        Developing the system's capability to classify documents via text analysis, to further refine data integrity for downstream business processes.
+        Developing the system's capability to classify documents via text analysis, to further refine data integrity for downstream business processes."
         
       - title: Prime Assistant (June 2023 - Nov 2023)
         link: ""
