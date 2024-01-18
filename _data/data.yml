@@ -101,14 +101,14 @@ experiences:
         time: Jan 2023 - Present
         company: Prime Holding JSC, Sofia, Bulgaria
         details: |
-*Researched and selected adequate Large Language Models (LLMs)
-*Testing and evaluating models performance on various data sets
-*Implementation of Recurrent Neural Networks
-*Creating dashboards and visualizations of the input data and model output data
-*Deriving important metrics and key indicators in Time Series Analysis
-*Applied models and made significant strides in forecasting next events
-*Developed reports and visualizations with Grafana
-*Managing a large relational database
+        *Researched and selected adequate Large Language Models (LLMs)
+        *Testing and evaluating models performance on various data sets
+        *Implementation of Recurrent Neural Networks
+        *Creating dashboards and visualizations of the input data and model output data
+        *Deriving important metrics and key indicators in Time Series Analysis
+        *Applied models and made significant strides in forecasting next events
+        *Developed reports and visualizations with Grafana
+        *Managing a large relational database
       # - role: Senior Software Engineer
       #   time: 2014 - 2015
       #   company: Google, London
