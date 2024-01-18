@@ -42,12 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Enthusiastic Junior Data Scientist and Data Engineer with a passion for innovation and a solid foundation in Python and SQL. Eager to contribute hands-on expertise to designing scalable data products on cloud         platforms, including Azure and AWS. Skilled in developing tools for data engineering, mining, and visualization, with a commitment to maintaining robust data governance and security. Excels in translating business        requirements into technical solutions and is ready to contribute to cross-functional data teams.
 education:
     title: Education
     info:
