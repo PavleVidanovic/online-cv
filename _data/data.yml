@@ -118,19 +118,19 @@ certifications:
           organization: Udemy
           
         - name: ChatGPT Prompt Engineering for Developers
-          start: 
+          start: 2023
           organization: Deeplearning.ai
 
         - name: LangChain for LLM Application Development
-          start: 
+          start: 2023
           organization: Deeplearning.ai
 
         - name: Finetuning Large Language Models
-          start: 
+          start: 2023
           organization: Deeplearning.ai
 
         - name: Building and Evaluating Advanced RAG Applications
-          start: 
+          start: 2023
           organization: Deeplearning.ai
 
 projects:
