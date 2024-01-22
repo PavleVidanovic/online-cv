@@ -146,7 +146,7 @@ projects:
         Developing Python back-end to handle JSON data transformations, manage error logging,  and ensure the  data flow into a database (SupaBase). 
         Developing the system's capability to classify documents via text analysis, to further refine data integrity for downstream business processes."
         
-      - title: Prime Assistant (June 2023 - Nov 2023)
+      - title: Prime Assistant (June 2023 - Oct 2023)
         link: ""
         tagline: "Researched and selected an adequate Large Language Model (Langchain, MilvusDB vector database),
         Testing and evaluating models performance on various data sets,
