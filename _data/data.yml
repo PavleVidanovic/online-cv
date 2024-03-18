@@ -138,7 +138,7 @@ projects:
     intro: >
     
     assignments:
-      - title: OCR Automation project (Nov 2023 - Present)
+      - title: OCR Automation project (Nov 2023 - Feb 2024)
         link: ""
         tagline: "Designing an invoice processing system, utilizing Microsoft Power Automate, Azure OCR engines, and Adobe REST APIs, augmented with Generative AI. 
         Engineering Flask-based APIs to parse and integrate data outputs from OCR engines with OpenAI Assistant API agents and Microsoft AutoGen.
