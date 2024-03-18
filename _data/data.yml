@@ -133,6 +133,10 @@ certifications:
           start: 2023
           organization: Deeplearning.ai
 
+        - name: Apache Spark 3 - Spark Programming in Python for Beginners
+          start: 2024
+          organization: Udemy
+
 projects:
     title: Projects
     intro: >
