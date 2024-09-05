@@ -96,7 +96,7 @@ skills:
 experiences:
     title: Experiences
     info:
-      - role: Data Scientist
+      - role: Junior Data Scientist / Data Scientist
         time: Jan 2023 - Present
         company: Prime Holding JSC, Sofia, Bulgaria
         details: |
@@ -109,6 +109,16 @@ experiences:
             - Applied models and made significant strides in forecasting next events
             - Developed reports and visualizations with Grafana
             - Managing large relational databases
+
+      - role: Data Scientist
+        time: Jul 2023 - Present
+        company: Wiser Technology, Sofia, Bulgaria
+        details: |
+         Part of a team of 10 Data Scientists and Engineers, completed tasks regarding LLMs in python.
+            - Researched and got familiar with a few vector databases, namely Milvus
+            - Experimented with various detailed prompts to instruct LLMs
+            - Used various techniques in managing and applying OCR model outputs
+            - In depth research of various document chunking approaches
 
 certifications:
       title: Certifications
@@ -142,6 +152,14 @@ projects:
     intro: >
     
     assignments:
+      - title: Smart Assistant project (Apr 2024 - Present)
+        link: ""
+        tagline: "Developed a document processing system utilizing Azure Document Intelligence to scan uploaded documents and extract structured data. 
+        Applied various data engineering techniques to process the output, including chunking the returned OCR content for efficient handling. 
+        Integrated MilvusDB to vectorize document chunks and used Attu for browsing and managing vectorized data. 
+        Fine-tuned large language models (LLMs) through prompt engineering to process contexts retrieved from the vector database using similarity search. 
+        Utilized API endpoints with FastAPI and validated system functionality using Postman, ensuring a robust and efficient workflow for document processing and retrieval."
+    
       - title: OCR Automation project (Nov 2023 - Feb 2024)
         link: ""
         tagline: "Designing an invoice processing system, utilizing Microsoft Power Automate, Azure OCR engines, and Adobe REST APIs, augmented with Generative AI. 
