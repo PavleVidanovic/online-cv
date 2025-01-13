@@ -74,24 +74,24 @@ education:
             - Bullet point
             - Bullet point
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 80%
+#     toolset:
+#       - name: Python
+#         level: 80%
 
-      - name: SQL
-        level: 80%
+#       - name: SQL
+#         level: 80%
 
-      - name: Grafana
-        level: 70%
+#       - name: Grafana
+#         level: 70%
 
-      - name: Java
-        level: 40%
+#       - name: Java
+#         level: 40%
 
-      - name: Javascript
-        level: 40%
+#       - name: Javascript
+#         level: 40%
 
 experiences:
     title: Experiences
