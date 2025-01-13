@@ -152,7 +152,7 @@ projects:
     intro: >
     
     assignments:
-      - title: Smart Assistant project (Apr 2024 - Present)
+      - title: Smart Assistant project (Apr 2024 - Jan 2025)
         link: ""
         tagline: "Developed a document processing system utilizing Azure Document Intelligence to scan uploaded documents and extract structured data. 
         Applied various data engineering techniques to process the output, including chunking the returned OCR content for efficient handling. 
