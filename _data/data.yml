@@ -152,7 +152,17 @@ projects:
     intro: >
     
     assignments:
-      - title: Smart Assistant project (Apr 2024 - Jan 2025)
+      - title: Document processing project (Apr 2025 - Aug 2025)
+        link: ""
+        tagline: "Built a document intelligence pipeline using AWS and GPT models to automate invoice-to-purchase order (PO) matching. 
+        Utilized AWS SQS for orchestration and Secrets Manager for secure credential handling. 
+        Developed matching algorithms to link uploaded invoices with POs stored in MongoDB, generating bills upon successful matches. 
+        Implemented evaluation pipelines using generated bills as ground truth and handled complex many-to-many invoice-to-PO relationships. 
+        Integrated OpenAI’s API with multiple endpoints, applying prompt engineering and schema validation to improve accuracy. 
+        Applied PDF-to-image conversion and other preprocessing strategies to enhance document readability and model performance. 
+        Built and documented API endpoints using FastAPI, leveraging Swagger for testing and interface management."
+    
+      - title: Smart Assistant project (Apr 2024 - Mar 2025)
         link: ""
         tagline: "Developed a document processing system utilizing Azure Document Intelligence to scan uploaded documents and extract structured data. 
         Applied various data engineering techniques to process the output, including chunking the returned OCR content for efficient handling. 
