@@ -42,12 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Enthusiastic Data Scientist and Data Engineer with a passion for innovation and a solid foundation in Python and SQL. 
-
-      I possess extensive exposure to multiple programming languages, enabling me to leverage diverse tools and approaches for efficient problem-solving. This versatility not only accelerates my problem-solving capabilities but also allows me to adapt swiftly to varying project requirements.
-      
-      Skilled in developing tools for data engineering, mining, and visualization, with a commitment to maintaining robust data governance and security. Excels in translating business requirements into technical solutions and is ready to contribute to cross-functional data teams.
-      
+        Data Scientist / Data Engineer with ~3 years of experience building ML and LLM-based document processing systems, time series forecasting models, and analytics dashboards. 
+        Designed and deployed pipelines on Azure and AWS using Python, SQL, and modern MLOps/ETL tooling (Databricks, MLflow, Data Factory). 
+        Hands-on with LLMs, RAG, OCR, and vector databases (Milvus) to turn unstructured documents into production-grade, queryable data.
 education:
     title: Education
     info:
