@@ -27,13 +27,13 @@ $sidebar-order: 2;
   margin-bottom: 1.2rem;
 }
 
-/* ===== Skill Section Tag Style ===== */
+/* === Skill chips – higher contrast, more legible === */
 
 .skill-group-title {
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 600;
-  margin-bottom: 0.4rem;
-  color: #2b5254;
+  margin-bottom: 0.35rem;
+  color: #2b5254;   /* same as section title tone */
 }
 
 .skill-list {
@@ -43,13 +43,16 @@ $sidebar-order: 2;
 
 .skill-list-item {
   display: inline-block;
-  background: #eef4f4;
-  padding: 0.15rem 0.55rem;
-  margin: 0.2rem 0.3rem 0.2rem 0;
-  border-radius: 12px;
-  font-size: 0.85rem;
-  border: 1px solid #d6e3e3;
+  background: #ffffff;          /* white chip */
+  color: #214145;               /* dark teal-ish text, very readable */
+  padding: 0.2rem 0.7rem;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+  border-radius: 999px;
+  border: 1px solid #2b5254;    /* darker border */
+  font-size: 0.9rem;            /* closer to body text */
+  font-weight: 500;
   line-height: 1.4;
 }
+
 
 
