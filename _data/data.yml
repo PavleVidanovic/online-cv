@@ -74,24 +74,47 @@ education:
             - Bullet point
             - Bullet point
 
-# skills:
-#     title: Skills &amp; Proficiency
+skills:
+  title: Technical Skills
 
-#     toolset:
-#       - name: Python
-#         level: 80%
+  groups:
+    - title: Programming & Query Languages
+      items:
+        - Python
+        - SQL
+        - JavaScript
+        - Java
 
-#       - name: SQL
-#         level: 80%
+    - title: Data & ML
+      items:
+        - Scikit-learn
+        - Time-series forecasting (RNN/LSTM)
+        - Anomaly detection
+        - OpenAI API / LLMs
 
-#       - name: Grafana
-#         level: 70%
+    - title: Data Engineering & Infra
+      items:
+        - Databricks
+        - MLflow
+        - Azure Data Factory
+        - AWS SQS
+        - FastAPI
+        - Docker
 
-#       - name: Java
-#         level: 40%
+    - title: Databases & Storage
+      items:
+        - PostgreSQL
+        - MySQL
+        - MongoDB
+        - Milvus
+        - Supabase
 
-#       - name: Javascript
-#         level: 40%
+    - title: Visualization & BI
+      items:
+        - Grafana
+        - Power BI
+        - Streamlit
+
 
 experiences:
     title: Experiences
