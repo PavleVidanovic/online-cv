@@ -16,3 +16,30 @@ $sidebar-order: 2;
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+.skill-groups {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.skill-group {
+  min-width: 220px;
+}
+
+.skill-group-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.skill-list {
+  margin: 0;
+  padding-left: 1.1rem; /* keep bullets neat */
+}
+
+.skill-list-item {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
