@@ -30,7 +30,7 @@ $sidebar-order: 2;
 /* === Skill chips – higher contrast, more legible === */
 
 .skill-group-title {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 600;
   margin-bottom: 0.35rem;
   color: #2b5254;   /* same as section title tone */
@@ -49,9 +49,9 @@ $sidebar-order: 2;
   margin: 0.15rem 0.35rem 0.15rem 0;
   border-radius: 999px;
   border: 1px solid #2b5254;    /* darker border */
-  font-size: 0.95rem;            /* closer to body text */
+  font-size: 1rem;
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 
