@@ -172,7 +172,16 @@ projects:
     intro: >
     
     assignments:
-      - title: Document processing project (Apr 2025 - Aug 2025)
+      - title: TicketPilot project (Oct 2025 - Mar 2026)
+        link: ""
+        tagline:" Built an internal AI assistant for an automotive industry client to simplify and accelerate Jira workflows for project managers. 
+        Worked as an AI Engineer and Backend Python Engineer in a frontend/backend team, implementing a multi-agent system with Microsoft AutoGen 
+        and tool-enabled agents, while utlizing/exploring agentic architectures such as GraphFlow and SelectorGroupChat. 
+        Developed streaming-based messaging for real-time interaction, introduced structured outputs with validators, 
+        created an LLM-as-a-judge evaluation framework, and wrote unit tests to ensure reliability. 
+        The solution significantly sped up project management processes and remains in active internal use at the client company. "
+        
+      - title: Document processing project (Apr 2025 - Sep 2025)
         link: ""
         tagline: " Built an AWS-based document intelligence pipeline (SQS, Secrets Manager, MongoDB, FastAPI, OpenAI) to automate invoice–PO matching and bill generation.
         Designed matching algorithms and evaluation pipelines to handle many-to-many invoice–PO relationships, achieving ~94% accurate matches on internal test data.
