@@ -42,9 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Data Scientist / Data Engineer with ~3 years of experience building ML and LLM-based document processing systems, time series forecasting models, and analytics dashboards. 
-        Designed and deployed pipelines on Azure and AWS using Python, SQL, and modern MLOps/ETL tooling (Databricks, MLflow, Data Factory). 
-        Hands-on with LLMs, RAG, OCR, and vector databases (Milvus) to turn unstructured documents into production-grade, queryable data.
+        Data Scientist and AI Engineer with ~3 years of experience developing machine learning and LLM-powered enterprise applications. 
+        Built production systems for document intelligence, retrieval-augmented generation (RAG), multi-agent orchestration, and workflow automation using Python, Azure, AWS, and modern backend technologies. 
+        Experienced with OCR, vector databases, prompt engineering, and scalable AI pipelines.
 education:
     title: Education
     info:
