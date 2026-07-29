@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Pavle Vidanović
-    tagline: Data Scientist
+    tagline: Data Scientist / AI Engineer
     avatar: profile.png.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -98,29 +98,38 @@ skills:
 experiences:
     title: Experiences
     info:
-      - role: Junior Data Scientist / Data Scientist
+      - role: Junior Data Scientist / AI Engineer
         time: Jan 2023 - Present
         company: Prime Holding JSC, Sofia, Bulgaria
         details: |
-         Part of a team of 5 Data Scientists and Engineers, completed tasks regarding machine learning, data analysis, forecasting and back-end development in python.
-            - Researched and selected adequate Large Language Models (LLMs)
-            - Testing and evaluating models performance on various data sets
-            - Implementation of Recurrent Neural Networks
-            - Creating dashboards and visualizations of the input data and model output data
-            - Deriving important metrics and key indicators in Time Series Analysis
-            - Applied models and made significant strides in forecasting next events
-            - Developed reports and visualizations with Grafana
-            - Managing large relational databases
+         Member of cross-functional AI engineering teams delivering production-grade machine learning and generative AI solutions. 
+         Designed and developed LLM-powered applications, document intelligence pipelines, multi-agent systems, and backend services using Python.
+         Worked with OCR, vector databases, RAG, agentic frameworks, and cloud platforms to automate business processes and improve enterprise workflows.
 
-      - role: Data Scientist
+            - Designed and implemented Retrieval-Augmented Generation (RAG) pipelines using LangChain, Microsoft AutoGen, and vector databases such as Milvus.
+            - Built AI assistants and multi-agent systems utilizing Microsoft AutoGen, GraphFlow, SelectorGroupChat, and tool-enabled agents.
+            - Developed backend APIs and data processing services using FastAPI and Flask.
+            - Built document intelligence pipelines utilizing Azure Document Intelligence, OCR technologies, and Large Language Models.
+            - Designed invoice processing, information extraction, and document classification pipelines using LLMs and VLMs.
+            - Implemented structured outputs, validation pipelines, evaluation frameworks (LLM-as-a-Judge), and automated testing.
+            - Researched document chunking strategies, vector search, prompt engineering, and retrieval optimization.
+            - Worked with cloud services including Azure and AWS (SQS, Secrets Manager), Docker, MongoDB, and Supabase.
+            - Collaborated with frontend developers and project managers in Agile teams to deliver production solutions.
+
+      - role: Data Scientist / AI Engineer
         time: Jul 2024 - Present
         company: Wiser Technology, Sofia, Bulgaria
         details: |
-         Part of a team of 10 Data Scientists and Engineers, completed tasks regarding LLMs in python.
-            - Researched and got familiar with a few vector databases, namely Milvus
-            - Experimented with various detailed prompts to instruct LLMs
-            - Used various techniques in managing and applying OCR model outputs
-            - In depth research of various document chunking approaches
+         Developed enterprise AI solutions focused on LLM applications, document processing, and agentic systems for clients in the automotive and financial sectors. 
+         Designed scalable backend services and evaluation pipelines while researching emerging LLM and multi-agent architectures.
+         
+            - Designed and implemented production-ready multi-agent workflows using Microsoft AutoGen.
+            - Built AI-powered document processing and procurement systems utilizing Azure Document Intelligence and OpenAI models.
+            - Developed invoice extraction, matching, and validation pipelines combining OCR, VLMs, and LLMs.
+            - Designed tenant-aware document retrieval systems and RAG pipelines using vector databases.
+            - Implemented streaming communication, structured outputs, validators, and automated testing.
+            - Researched agentic architectures, document chunking techniques, retrieval optimization, and LLM evaluation methodologies.
+            - Developed backend services using Python, FastAPI, Flask, MongoDB, and cloud-native technologies.
 
 certifications:
       title: Certifications
