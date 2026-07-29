@@ -172,7 +172,7 @@ projects:
     intro: >
     
     assignments:
-      - title: TicketPilot project (7 months)
+      - title: Ticket Management Project (7 months)
         link: ""
         tagline: "Built an internal AI assistant for an automotive industry client to simplify and accelerate Jira workflows for project managers. 
         Worked as an AI Engineer and Backend Python Engineer in a frontend/backend team, implementing a multi-agent system with Microsoft AutoGen 
@@ -181,13 +181,13 @@ projects:
         created an LLM-as-a-judge evaluation framework, and wrote unit tests to ensure reliability. 
         The solution significantly sped up project management processes and remains in active internal use at the client company."
         
-      - title: Document processing project (6 months)
+      - title: Document Processing Project (6 months)
         link: ""
         tagline: "Built an AWS-based document intelligence pipeline (SQS, Secrets Manager, MongoDB, FastAPI, OpenAI) to automate invoice–PO matching and bill generation.
         Designed matching algorithms and evaluation pipelines to handle many-to-many invoice–PO relationships, achieving ~94% accurate matches on internal test data.
         Implemented PDF-to-image and other preprocessing to boost OCR/LLM accuracy, and documented all endpoints with Swagger for testing and integration."
     
-      - title: Smart Assistant project (11 months)
+      - title: Board/Procurement Navigator (11 months)
         link: ""
         tagline: "Developed a document processing system utilizing Azure Document Intelligence to scan uploaded documents and extract structured data. 
         Applied various data engineering techniques to process the output, including chunking the returned OCR content for efficient handling. 
@@ -195,7 +195,7 @@ projects:
         Fine-tuned large language models (LLMs) through prompt engineering to process contexts retrieved from the vector database using similarity search. 
         Utilized API endpoints with FastAPI and validated system functionality using Postman, ensuring a robust and efficient workflow for document processing and retrieval."
     
-      - title: OCR Automation project (4 months)
+      - title: OCR Automation Project (4 months)
         link: ""
         tagline: "Designing an invoice processing system, utilizing Microsoft Power Automate, Azure OCR engines, and Adobe REST APIs, augmented with Generative AI. 
         Engineering Flask-based APIs to parse and integrate data outputs from OCR engines with OpenAI Assistant API agents and Microsoft AutoGen.
@@ -210,7 +210,7 @@ projects:
         Integrated the backend with the frontend to make a fullstack app (React, Python-Flask),
         Containerized the app and hosted it on docker"
         
-      - title: REACH - Bus Occupancy Predictions project (3 months)
+      - title: REACH - Bus Occupancy Predictions (3 months)
         link: ""
         tagline: "Researched machine learning algorithms to help predict bus entrants and occupancy, Implemented RNNs for solving the problems above (LSTMs),
         Created dashboards and visualizations of the input data and model output data (Flask, Streamlit), derived important metrics and pinpointed key indicators of bus occupancy"
