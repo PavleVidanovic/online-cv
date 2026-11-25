@@ -152,18 +152,23 @@ projects:
     assignments:
       - title: Ticket Management Project (7 months)
         link: ""
-        tagline: "Built an internal AI assistant for an automotive industry client to simplify and accelerate Jira workflows for project managers. 
-        Worked as an AI Engineer and Backend Python Engineer in a frontend/backend team, implementing a multi-agent system with Microsoft AutoGen 
-        and tool-enabled agents, while utlizing/exploring agentic architectures such as GraphFlow and SelectorGroupChat. 
-        Developed streaming-based messaging for real-time interaction, introduced structured outputs with validators, 
-        created an LLM-as-a-judge evaluation framework, and wrote unit tests to ensure reliability. 
-        The solution significantly sped up project management processes and remains in active internal use at the client company."
+        tagline: "
+        - Developed an internal AI assistant to automate and streamline Jira workflows for project managers.
+        - Implemented a multi-agent system using Microsoft AutoGen, exploring agentic architectures such as GraphFlow and SelectorGroupChat.
+        - Built tool-enabled agents, streaming-based messaging, and structured outputs with validation.
+        - Developed an LLM-as-a-Judge evaluation framework and unit tests to ensure reliability.
+        - Delivered a solution that accelerated project management workflows and remains in active internal use.
+        "
         
       - title: Document Processing Project (6 months)
         link: ""
-        tagline: "Built an AWS-based document intelligence pipeline (SQS, Secrets Manager, MongoDB, FastAPI, OpenAI) to automate invoice–PO matching and bill generation.
-        Designed matching algorithms and evaluation pipelines to handle many-to-many invoice–PO relationships, achieving ~94% accurate matches on internal test data.
-        Implemented PDF-to-image and other preprocessing to boost OCR/LLM accuracy, and documented all endpoints with Swagger for testing and integration."
+        tagline: "
+        - Built an AWS-based document intelligence pipeline using SQS, Secrets Manager, MongoDB, FastAPI, and OpenAI.
+        - Developed matching algorithms to automate invoice–PO matching and bill generation, supporting many-to-many relationships.
+        - Achieved approximately 94% matching accuracy on internal test data.
+        - Implemented PDF preprocessing and image conversion to improve OCR and LLM accuracy.
+        - Documented API endpoints using Swagger to support testing and integration.
+        "
     
       - title: Board/Procurement Navigator (11 months)
         link: ""
