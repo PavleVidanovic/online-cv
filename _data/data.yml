@@ -153,63 +153,63 @@ projects:
       - title: Ticket Management Project
         link: ""
         tagline: |
-        - Developed an internal AI assistant to automate and streamline Jira workflows for project managers.
-        - Implemented a multi-agent system using Microsoft AutoGen, exploring agentic architectures such as GraphFlow and SelectorGroupChat.
-        - Built tool-enabled agents, streaming-based messaging, and structured outputs with validation.
-        - Developed an LLM-as-a-Judge evaluation framework and unit tests to ensure reliability.
-        - Delivered a solution that accelerated project management workflows and remains in active internal use.
+            - Developed an internal AI assistant to automate and streamline Jira workflows for project managers.
+            - Implemented a multi-agent system using Microsoft AutoGen, exploring agentic architectures such as GraphFlow and SelectorGroupChat.
+            - Built tool-enabled agents, streaming-based messaging, and structured outputs with validation.
+            - Developed an LLM-as-a-Judge evaluation framework and unit tests to ensure reliability.
+            - Delivered a solution that accelerated project management workflows and remains in active internal use.
         
       - title: Document Processing Project
         link: ""
         tagline: |
-        - Built an AWS-based document intelligence pipeline using SQS, Secrets Manager, MongoDB, FastAPI, and OpenAI.
-        - Developed matching algorithms to automate invoice–PO matching and bill generation, supporting many-to-many relationships.
-        - Achieved approximately 94% matching accuracy on internal test data.
-        - Implemented PDF preprocessing and image conversion to improve OCR and LLM accuracy.
-        - Documented API endpoints using Swagger to support testing and integration.
+            - Built an AWS-based document intelligence pipeline using SQS, Secrets Manager, MongoDB, FastAPI, and OpenAI.
+            - Developed matching algorithms to automate invoice–PO matching and bill generation, supporting many-to-many relationships.
+            - Achieved approximately 94% matching accuracy on internal test data.
+            - Implemented PDF preprocessing and image conversion to improve OCR and LLM accuracy.
+            - Documented API endpoints using Swagger to support testing and integration.
     
       - title: Board/Procurement Navigator
         link: ""
         tagline: |
-        - Developed a document processing and intelligence system using Azure Document Intelligence.777
-        - Implemented OCR data processing, text chunking, and document extraction pipelines.
-        - Integrated MilvusDB for vector storage and semantic document retrieval, using Attu for database management.
-        - Engineered LLM prompts to process context retrieved through vector similarity search.
-        - Developed FastAPI endpoints and validated functionality using Postman.
+            - Developed a document processing and intelligence system using Azure Document Intelligence.777
+            - Implemented OCR data processing, text chunking, and document extraction pipelines.
+            - Integrated MilvusDB for vector storage and semantic document retrieval, using Attu for database management.
+            - Engineered LLM prompts to process context retrieved through vector similarity search.
+            - Developed FastAPI endpoints and validated functionality using Postman.
     
       - title: OCR Automation Project
         link: ""
         tagline: |
-        - Designed an automated invoice processing system using Microsoft Power Automate, Azure OCR, Adobe REST APIs, and Generative AI.
-        - Developed Flask APIs to integrate OCR outputs with OpenAI Assistant API and Microsoft AutoGen agents.
-        - Engineered prompts and agent interactions for automated text transformation.
-        - Built Python backend services for JSON processing, error logging, and Supabase database integration.
-        - Implemented document classification through text analysis to improve downstream data quality.
+            - Designed an automated invoice processing system using Microsoft Power Automate, Azure OCR, Adobe REST APIs, and Generative AI.
+            - Developed Flask APIs to integrate OCR outputs with OpenAI Assistant API and Microsoft AutoGen agents.
+            - Engineered prompts and agent interactions for automated text transformation.
+            - Built Python backend services for JSON processing, error logging, and Supabase database integration.
+            - Implemented document classification through text analysis to improve downstream data quality.
         
       - title: Prime Assistant
         link: ""
         tagline: |
-        - Researched and evaluated LLMs using LangChain and MilvusDB.
-        - Tested model performance across different datasets.
-        - Integrated the Python/Flask backend with a React frontend to deliver a full-stack application.
-        - Containerized and deployed the application using Docker.
+            - Researched and evaluated LLMs using LangChain and MilvusDB.
+            - Tested model performance across different datasets.
+            - Integrated the Python/Flask backend with a React frontend to deliver a full-stack application.
+            - Containerized and deployed the application using Docker.
         
       - title: REACH - Bus Occupancy Predictions
         link: ""
         tagline: |
-        - Researched machine learning approaches for predicting passenger arrivals and bus occupancy.
-        - Implemented Recurrent Neural Networks (RNNs), particularly LSTM models.
-        - Developed dashboards and visualizations using Flask and Streamlit.
-        - Analyzed model outputs and derived key metrics and indicators of bus occupancy.
+            - Researched machine learning approaches for predicting passenger arrivals and bus occupancy.
+            - Implemented Recurrent Neural Networks (RNNs), particularly LSTM models.
+            - Developed dashboards and visualizations using Flask and Streamlit.
+            - Analyzed model outputs and derived key metrics and indicators of bus occupancy.
         
       - title: Anomaly Detection Project
         link: ""
         tagline: |
-        - Worked with relational and non-relational databases, including SQL Server and MongoDB.
-        - Implemented supervised classification algorithms, including Logistic Regression, LDA, Decision Trees, and Neural Networks.
-        - Applied unsupervised learning techniques, including k-NN, clustering, and anomaly detection algorithms.
-        - Worked with ETL and workflow orchestration tools, including Azure Data Factory, Databricks, and MLflow.
-        - Created data visualizations and dashboards using Grafana and Power BI.
+            - Worked with relational and non-relational databases, including SQL Server and MongoDB.
+            - Implemented supervised classification algorithms, including Logistic Regression, LDA, Decision Trees, and Neural Networks.
+            - Applied unsupervised learning techniques, including k-NN, clustering, and anomaly detection algorithms.
+            - Worked with ETL and workflow orchestration tools, including Azure Data Factory, Databricks, and MLflow.
+            - Created data visualizations and dashboards using Grafana and Power BI.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
