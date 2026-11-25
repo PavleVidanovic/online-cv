@@ -171,7 +171,7 @@ projects:
       - title: Board/Procurement Navigator
         link: ""
         tagline: |
-            - Developed a document processing and intelligence system using Azure Document Intelligence.777
+            - Developed a document processing and intelligence system using Azure Document Intelligence.
             - Implemented OCR data processing, text chunking, and document extraction pipelines.
             - Integrated MilvusDB for vector storage and semantic document retrieval, using Attu for database management.
             - Engineered LLM prompts to process context retrieved through vector similarity search.
