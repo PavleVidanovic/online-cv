@@ -152,13 +152,12 @@ projects:
     assignments:
       - title: Ticket Management Project (7 months)
         link: ""
-        tagline: "
+        tagline: 
         - Developed an internal AI assistant to automate and streamline Jira workflows for project managers.
         - Implemented a multi-agent system using Microsoft AutoGen, exploring agentic architectures such as GraphFlow and SelectorGroupChat.
         - Built tool-enabled agents, streaming-based messaging, and structured outputs with validation.
         - Developed an LLM-as-a-Judge evaluation framework and unit tests to ensure reliability.
         - Delivered a solution that accelerated project management workflows and remains in active internal use.
-        "
         
       - title: Document Processing Project (6 months)
         link: ""
