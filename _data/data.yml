@@ -150,6 +150,14 @@ projects:
     intro: >
     
     assignments:
+       - title: Insight - Enterprise Meeting Intelligence
+         link: ""
+         tagline: |
+             - Delivered multi-tenant SaaS platform that turn board packs into meeting briefs, agendas and expert insights.
+             - Built content-addressed document reuse, identical uploads are stored and indexed once, with safe replace, cancel and cleanup.
+             - Shipped per-version document classification with source-access gates, so chat, search and voice only read documents the caller is allowed to see, and graded it with an evaluation harness.
+             - Hardened generation against prompt injection and hallucination: organization context treated as untrusted data, checks on brief selections, and guardsthat drop insights with ungrounded dates or percentages.
+    
       - title: Ticket Management Project
         link: ""
         tagline: |
